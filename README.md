@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution Code](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution Code](https://github.com/frances-m/stats-preview-card-component)
+- [Live Site](https://frances-m.github.io/stats-preview-card-component/)
 
 ## My process
 
