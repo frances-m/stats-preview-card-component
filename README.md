@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/frances-m/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://frances-m.github.io/stats-preview-card-component/)
+- [Solution Code](https://github.com/frances-m/stats-preview-card-component)
+- [Live Site](https://frances-m.github.io/stats-preview-card-component/)
 
 ## My process
 
 ### Built with
 
-- HTML5
+- Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 - Sass
