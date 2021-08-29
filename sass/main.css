@@ -12,6 +12,8 @@
 body {
   background-color: #090b1a;
   color: white;
+  margin: 0;
+  padding: 0;
 }
 
 .card-container {
